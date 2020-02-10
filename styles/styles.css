@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'GothaProBol';
-    src: url('/fonts/GothaProBol.otf');
+    src: url('fonts/GothaProBol.otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GothaProLig';
-    src: url('/fonts/GothaProLig.otf');
+    src: url('fonts/GothaProLig.otf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'GothaProReg';
-    src: url('/fonts/GothaProReg.otf');
+    src: url('fonts/GothaProReg.otf');
     font-weight: normal;
     font-style: normal;
 }
@@ -101,7 +101,7 @@ h2 {
     color: black;
     text-align: center;
     margin-bottom: 120px;
-    background-image: url(/img/background2.png);
+    background-image: url(img/background2.png);
     background-position: 100%;
     background-size: cover;
     height: 757px;
@@ -139,7 +139,7 @@ h3 {
     padding-bottom: 125px;
     text-align: center;
     margin-bottom: 120px;
-    background-image: url(/img/background2.png);
+    background-image: url(img/background2.png);
     background-position: 100%;
     background-size: cover;
     height: 757px;
@@ -161,7 +161,7 @@ h4 {
 }
 
 .form_img {
-    background-image: url(/img/form.png);
+    background-image: url(img/form.png);
     /* background-position: 100%; */
     background-size: contain;
     background-repeat: no-repeat;
