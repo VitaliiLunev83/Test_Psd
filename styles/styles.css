@@ -49,7 +49,7 @@ p {
 }
 
 .main {
-    background-image: url(/img/Title.jpg);
+    /* background-image: url(/img/Title.jpg); */
     background-position: 100%;
     background-size: cover;
     height: 757px;
